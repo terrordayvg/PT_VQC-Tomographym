@@ -1,1 +1,1 @@
-Errata: The original link for the codes of 10.1088/1367-2630/ad5df1 can be found at https://github.com/terrordayvg/PT_VQC-Tomography
+Erratum: The original link for the codes of 10.1088/1367-2630/ad5df1 can be found at https://github.com/terrordayvg/PT_VQC-Tomography
